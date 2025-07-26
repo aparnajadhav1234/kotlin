@@ -1,6 +1,6 @@
 fun main(){
     val name ="Aparna"
-    val age=20
+    val age = 20
     println("name:$name")
     println("Age:$age")
     println("Welcome to kotlin Assignment!")
